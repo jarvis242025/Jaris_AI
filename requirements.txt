@@ -1,0 +1,11 @@
+openai
+whisper
+pyttsx3
+sounddevice
+numpy
+wavio
+opencv-python
+deepface
+asyncio
+bleak
+subprocess
